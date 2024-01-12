@@ -17,19 +17,21 @@ Ich habe mir überlegt einen Rechner in Winforms Programmieren.
 
 ## 12.1.2024
 
-✍️ Heute habe ich... (50-100 Wörter)
+Heute habe ich einige Zeit damit verbracht, ein gutes Projekt zu finden, bei welchem ich Motivation habe und es auch erreichbar ist. Nun bin ich zum Schluss gekommen, dass ich einen Rechner programmieren will. In winforms, in der Konsolenanwendung, habe ich es schon mal Programmiert, nun möchte ich es aber auch noch mit GUI machen, weshalb ich mich für Winforms entschieden habe. Mein Ziel wäre es, dass ich nicht nur +, -, *, / Rechnen kann, sondern vielleicht auch Wurzeln ziehen oder kompliziertere Rechnungen.(80 Wörter)
 
 ## 19.1.2024
 
-- [ ] Erstes Arbeitspaket
-- [ ] ...
-- [ ] Viertes AP
+- [ ] GUI Knöpfe hinzufügen 
+- [ ] Eingabe erlauben
+- [ ] + - Knöpfe funktion hinzufügen
+- [ ] = button
 
-| Testfall-Nummer | Ausgangslage (Given) | Eingabe (When) | Ausgabe (Then) | Erfüllt? |
-| --------------- | -------------------- | -------------- | -------------- | -------- |
-| 1               |                      |                |                |          |
-| ...             |                      |                |                |          |
-| 4               |                      |                |                |          |
+| Testfall-Nummer | Ausgangslage (Given) | Eingabe (When)   | Ausgabe (Then)           | Erfüllt? |
+| --------------- | -------------------- | -----------------| ------------------------ | -------- |
+| 1               |Projekt wurde erstellt|Programm gestartet|Knöpfe werden angezeigt   |          |
+| 2               |Projekt gestartet     |  Zahl eingegeben |Zahlen werden angezeigt   |          |
+| 3               |Projekt gestartet     |  Zahl +/- Zahl2  |Zahlen wird angezeigt     |          |
+| 4               |Projekt gestartet     |  Zahl +/- Zahl2  |Ergebniss wird angezeigt  |          |
 
 ✍️ Heute am 16.1 habe ich... (50-100 Wörter)
 
@@ -37,16 +39,18 @@ Ich habe mir überlegt einen Rechner in Winforms Programmieren.
 
 ## 26.1.2024
 
-- [ ] Fünftes AP
-- [ ] Spiel endet, wenn Schlange sich selber beisst
+- [ ] Multiplikation hinzufügen
+- [ ] Divisionen hinzufügen
+- [ ] Wurzel funktion hinzufügen
+- [ ] ^2 Funktion hinzufügen
 
-- [ ] Achtes AP
 
 | Testfall-Nummer | Ausgangslage (Given)                                         | Eingabe (When)              | Ausgabe (Then) | Erfüllt? |
-| --------------- | ------------------------------------------------------------ | --------------------------- | -------------- | -------- |
-| 5               |                                                              |                             |                |          |
-| 7               | Spiel gestartet, Schlange lang genug, dass sie sich beissen kann | Schlange beisst sich selber | Spiel endet    |          |
-| 8               |                                                              |                             |                |          |
+| --------------- | ------------------------------------------------------------ | --------------------------- | ------------------------- | -------- |
+| 5               |  Projekt gestartet                                           |  Zahl1 * Zahl2              | produkt wird ausgegeben   |          |
+| 6               | Projekt gestartet                                            | Zahl1 / Zahl2               | Ergebniss wird ausgegeben |          |
+| 7               |  Projekt gestartet                                           | √Zahl                       | Ergebniss wird ausgegeben |          |
+| 8               |  Projekt gestartet                                           | Zahl^2                      | Ergebniss wird ausgegeben |          |
 
 ✍️ Heute am 23.1 habe ich... (50-100 Wörter)
 
