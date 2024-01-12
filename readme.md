@@ -1,14 +1,19 @@
 # Lern-Periode 3
 
-Max Muster
+Mathieu Albrecht
 
 12.1. bis 23.2.2024
 
 ## Grob-Planung
 
-1. Wo stehen Sie mit Ihren Noten? In welchen Modulen waren Sie besonders stark; in welchen sind die ungenügend? Welche davon sind besonders wichtig?
+1. Wo stehen Sie mit Ihren Noten? In welchen Modulen waren Sie besonders stark; in welchen sind sie ungenügend? Welche davon sind besonders wichtig?
+Meine Noten sind recht gut im Modul 431 hatte ich die Note 6, im Modul 319, 162 hatte ich eine 4.5. Das Modul 319 ist sehr wichtig wshalb ich denke das es gut wäre wenn ich mich in diesem Themenbereich noch verbessern könnte.
+
 2. Was hatten Sie sich am Ende von LP2 vorgenommen? Was war Ihr VBV? Wie könnten Sie diesen besonders gut üben?
+Ich habe mir vorgenommen ein grösseres Projekt über mehrere Wochen hinweg zu machen für was sich diese Lernperiode gut eignet, da sie 4 Wochen dauert was eine gute Zeit für ein kleines Programmierprojekt ist.
+
 3. Was wäre ein geeignetes Projekt würd diese LP3?
+
 
 ## 12.1.2024
 
