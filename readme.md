@@ -13,7 +13,7 @@ Meine Noten sind recht gut im Modul 431 hatte ich die Note 6, im Modul 319, 162 
 Ich habe mir vorgenommen ein grösseres Projekt über mehrere Wochen hinweg zu machen für was sich diese Lernperiode gut eignet, da sie 4 Wochen dauert was eine gute Zeit für ein kleines Programmierprojekt ist.
 
 3. Was wäre ein geeignetes Projekt würd diese LP3?
-Ich habe mir überlegt ein Programm zu erstellen, dass man von spielen das günstigste Land von Steam sieht.
+Ich habe mir überlegt einen Rechner in Winforms Programmieren.
 
 ## 12.1.2024
 
