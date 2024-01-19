@@ -27,11 +27,11 @@ Heute habe ich einige Zeit damit verbracht, ein gutes Projekt zu finden, bei wel
 
 | Testfall-Nummer | Ausgangslage (Given) | Eingabe (When)   | Ausgabe (Then)           | Erfüllt? |
 | --------------- | -------------------- | -----------------| ------------------------ | -------- |
-| 2               |Projekt gestartet     |  Zahl eingegeben |Zahlen werden angezeigt   |          |
-| 3               |Projekt gestartet     |  Zahl +/- Zahl2  |Zahlen wird angezeigt     |          |
-| 4               |Projekt gestartet     |  Zahl +/- Zahl2  |Ergebniss wird angezeigt  |          |
+| 2               |Projekt gestartet     |  Zahl eingegeben |Zahlen werden angezeigt   |  JA      |
+| 3               |Projekt gestartet     |  Zahl +/- Zahl2  |Zahlen wird angezeigt     |  JA      |
+| 4               |Projekt gestartet     |  Zahl +/- Zahl2  |Ergebniss wird angezeigt  |  JA      |
 
-✍️ Heute am 16.1 habe ich... (50-100 Wörter)
+✍️ Heute, am 19.1., habe ich mich mit den oben stehenden Arbeitspaketen auseinandergesetzt, welche ich gut und reibungslos abarbeiten konnte. Ich hatte nur kleine Probleme, zwischendurch ist ein Fehler aufgetreten, welche ich jedoch meist schnell beheben konnte. Nun funktioniert das Programm wie gewünscht und alle Funktionen, die ich haben wollte, funktionieren auch. (52 Wörter)
 
 ☝️ Vergessen Sie nicht, bis zum 16.1 einen ersten Code auf github hochzuladen, und in der Spalte **Erfüllt?** einzutragen, ob Ihr Code die Test-Fälle erfüllt
 
