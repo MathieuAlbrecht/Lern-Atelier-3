@@ -17,18 +17,16 @@ Ich habe mir überlegt einen Rechner in Winforms Programmieren.
 
 ## 12.1.2024
 
-Heute habe ich einige Zeit damit verbracht, ein gutes Projekt zu finden, bei welchem ich Motivation habe und es auch erreichbar ist. Nun bin ich zum Schluss gekommen, dass ich einen Rechner programmieren will. In winforms, in der Konsolenanwendung, habe ich es schon mal Programmiert, nun möchte ich es aber auch noch mit GUI machen, weshalb ich mich für Winforms entschieden habe. Mein Ziel wäre es, dass ich nicht nur +, -, *, / Rechnen kann, sondern vielleicht auch Wurzeln ziehen oder kompliziertere Rechnungen.(80 Wörter)
+Heute habe ich einige Zeit damit verbracht, ein gutes Projekt zu finden, bei welchem ich Motivation habe und es auch erreichbar ist. Nun bin ich zum Schluss gekommen, dass ich einen Rechner programmieren will. In der Konsolenanwendung, habe ich es schon mal Programmiert, nun möchte ich es nochmals probieren mit einigen extrafunktionen. Mein Ziel wäre es, dass ich nicht nur +, -, *, / Rechnen kann, sondern vielleicht auch Wurzeln ziehen oder kompliziertere Rechnungen.(80 Wörter)
 
 ## 19.1.2024
 
-- [ ] GUI Knöpfe hinzufügen 
 - [ ] Eingabe erlauben
 - [ ] + - Knöpfe funktion hinzufügen
 - [ ] = button
 
 | Testfall-Nummer | Ausgangslage (Given) | Eingabe (When)   | Ausgabe (Then)           | Erfüllt? |
 | --------------- | -------------------- | -----------------| ------------------------ | -------- |
-| 1               |Projekt wurde erstellt|Programm gestartet|Knöpfe werden angezeigt   |          |
 | 2               |Projekt gestartet     |  Zahl eingegeben |Zahlen werden angezeigt   |          |
 | 3               |Projekt gestartet     |  Zahl +/- Zahl2  |Zahlen wird angezeigt     |          |
 | 4               |Projekt gestartet     |  Zahl +/- Zahl2  |Ergebniss wird angezeigt  |          |
