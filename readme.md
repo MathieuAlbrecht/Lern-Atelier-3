@@ -56,7 +56,7 @@ Heute habe ich einige Zeit damit verbracht, ein gutes Projekt zu finden, bei wel
 
 ## 16.2.2024
 
-✍️ Heute am 23.1 habe ich... (50-100 Wörter)
+✍️ Heute am 23.1 habe ich meinen Rechner versucht fertigzustellen, was recht gut funktioniert hat, ausser die Funktion √ diese funktioniert nicht richtig und ich weiss nicht, wie ich es eingeben muss, damit √ gerechnet wird. * / ^2 gingen mir einfach und haben keine Probleme bereitet, √ hat mir jedoch Schwierigkeiten bereitet und es funktioniert bisher nicht ganz richtig.(58 Wörter)
 
 ## Reflexion
 
