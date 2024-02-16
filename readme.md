@@ -60,6 +60,6 @@ Heute habe ich einige Zeit damit verbracht, ein gutes Projekt zu finden, bei wel
 
 ## Reflexion
 
-Formen Sie Ihre Zusammenfassungen in Hinblick auf Ihren VBV zu einem zusammenhängenden Text von 100 bis 200 Wörtern (wieder mit Angabe in Klammern).
+In dieser Lernperiode habe ich innerhalb von 3 Wochen ein kleines Projekt programmiert, mit verschiedenen Funktionen. Mein Projekt war ein Rechner, welcher die normalen Rechenoperationen beinhaltet und noch 2 weitere Features. Ich konnte meinen letzten Verbesserungsvorschlag in dieser Lernperiode gut verbessern, da ich an einem längeren Projekt arbeiten wollte und nicht jede Woche etwas Neues machen, was gut funktioniert hat, denn ich habe nur für dieses Projekt mit dem Rechner gearbeitet während dieser Lernperiode. Für die nächste Lernperiode nehme ich mir vor, dass ich eine gute Balance finden kann zwischen etwas für die Module zu machen, aber auch meine Fähigkeiten im Programmieren zu erweitern.
 
-Verfassen Sie zusätzlich einen kurzen Abschnitt, in welchem Sie über die Länge der Projekte reflektieren: Fanden Sie die 10-wöchtige LP2 oder die 4-wöchige LP3 angenehmer? Was bedeutet das für Ihre Planung der zukünftigen LP?
+
